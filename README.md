@@ -6,4 +6,4 @@ Automates the creation of a local Windows user and adds them to a specified grou
 ## Usage
 Run the script with admin rights:
 ```powershell
-.\create-local-user.ps1
+.\local user acc creation.ps1
