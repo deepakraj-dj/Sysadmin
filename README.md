@@ -13,7 +13,7 @@ Automates the creation of a local Windows user and adds them to a specified grou
 2. Run the script:
 
    powershell
-   .\local-user-acc-creation.ps1
+   .\local_user_acc_creation.ps1
    
 ## Notes
 - Ensure you have the necessary permissions.
