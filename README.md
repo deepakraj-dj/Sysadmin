@@ -3,7 +3,18 @@
 ## Overview
 Automates the creation of a local Windows user and adds them to a specified group.
 
+## Prerequisites
+- Windows PowerShell
+- Administrator privileges
+
 ## Usage
-Run the script with admin rights:
-```powershell
-.\local user acc creation.ps1
+
+1. Open PowerShell as Administrator.
+2. Run the script:
+
+   powershell
+   .\local-user-acc-creation.ps1
+   
+## Notes
+- Ensure you have the necessary permissions.
+- Adjust script parameters as needed.
